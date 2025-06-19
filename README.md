@@ -1,10 +1,15 @@
  
 ## Content
+Team Name: SpaceJ
+Country: Kazakhstan
+School: Secondary School No. 67, Zhambyl Region
+Category: WRO Future Engineers 2025
 
-* `t-photos` contains 2 photos of the team (an official one and one funny photo with all team members)
-* `v-photos` contains 6 photos of the vehicle (from every side, from top and bottom)
-* `video` contains the video.md file with the link to a video where driving demonstration exists
-* `schemes` contains one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
-* `src` contains code of control software for all components which were programmed to participate in the competition
-* `models` is for the files for models used by 3D printers, laser cutting machines and CNC machines to produce the vehicle elements. If there is nothing to add to this location, the directory can be removed.
-* `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
+We are a passionate team of high school students dedicated to robotics, engineering, and innovation. With a strong background in programming, mechanical design, and teamwork, we aim to create sustainable and creative solutions for real-world challenges.
+
+Team Members:
+	•	Esirkep Bekasyl – Engineer
+	•	Atabayev Abduasyl – Programmer
+
+Our mission is to learn, build, and inspire — through collaboration, hard work, and continuous improvement.
+We believe that technology is a powerful tool to shape the future, and we’re proud to represent our region at the international level.
